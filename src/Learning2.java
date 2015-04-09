@@ -6,7 +6,7 @@ public class Learning2 {
 	{
 		Bike b1 = new Bike();
 		String name;
-		b1.setOwnerName("Tara");
+		b1.setOwnerName("Tara testing time 2");
 		
 		name = b1.getOwnerName();
 		System.out.print(name);
